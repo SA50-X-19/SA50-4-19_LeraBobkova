@@ -131,6 +131,7 @@ body {
 
 .sign__in__link {
     font-family: Open Sans;
+    color: white;
     color: #FFF;
     text-decoration: none;
     font-style: normal;
@@ -150,6 +151,7 @@ body {
     height: 340px;
     flex-direction: column;
     justify-content: space-between;
+    padding-top: 100px;
     padding-top: 80px;
 }
 
@@ -203,6 +205,7 @@ body {
     font-size: 23px;
     line-height: 27px;
     text-decoration: none;
+    color: white;
     color: #F7F7F7;
     margin: auto;
 }
@@ -212,3 +215,165 @@ body {
     width: 100%;
 }
 
+.last__articles {
+    display: flex;
+    background: white;
+    width: 1440px;
+    height: 1368px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h1__la {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    color: #333333;
+    padding-top: 120px;
+    margin-bottom: 20px;
+}
+
+.h2__la {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #666666;
+    margin-bottom: 150px;
+}
+
+.photo__animals {
+    display: flex;
+    width: 1200px;
+    max-width: 100%;
+    height: 360px;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.photo {
+    display: flex;
+    width: 1020px;
+    max-width: 100%;
+    height: 360px;
+    justify-content: space-between;
+}
+
+.olen {
+    background-image: url(./photo/olen.jpg);
+}
+
+.photo > div {
+    display: flex;
+    width: 300px;
+    height: 360px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.belka {
+    background-image: url(./photo/belka.jpg);
+    display: flex;
+    width: 300px;
+    height: 360px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ptica {
+    background-image: url(./photo/ptica.jpg);
+    display: flex;
+    width: 300px;
+    height: 360px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text__name {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+    color: white;
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.text__photo {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 27px;
+    text-align: center;
+    color: white;
+    display: flex;
+    padding-bottom: 25px;
+}
+
+.vector__left,.vector__right {
+    transition: 1s;
+}
+
+.vector__left:hover {
+    transform: scale(1.3);
+}
+
+.vector__right:hover {
+    transform: scale(1.3);
+}
+
+.la__bottom {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 240px;
+    margin-bottom: 60px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.email__pole {
+    width: 540px;
+    height: 60px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    padding-left: 25px;
+}
+
+.otpravka {
+    display: flex;
+    color: white;
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #CD6326;
+    background: #CD6326;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    width: 120px;
+    height: 64px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+}
