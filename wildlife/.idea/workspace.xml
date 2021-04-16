@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba647f86-e778-44da-b117-32cab34ef312" name="Default Changelist" comment="" />
+    <list default="true" id="b7fc8b1c-217f-43ff-b499-c11c501d9e42" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +31,8 @@
   </component>
   <component name="JupyterTrust" id="89edd4c1-26b6-4345-8aa4-c1965f037d4c" />
   <component name="ProjectId" id="1rF2pvqFkkDvROigd1PWa01OM4q" />
+  <component name="JupyterTrust" id="26178fda-1bac-49be-96b9-af556b4a5abc" />
+  <component name="ProjectId" id="1r9hNAtAENKem2qYCbyTPMFViv7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,6 +51,13 @@
       <option name="presentableId" value="Default" />
       <updated>1618557709360</updated>
       <workItem from="1618557711133" duration="1092000" />
+      <changelist id="b7fc8b1c-217f-43ff-b499-c11c501d9e42" name="Default Changelist" comment="" />
+      <created>1618394177069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618394177069</updated>
+      <workItem from="1618394178860" duration="25000" />
+      <workItem from="1618394286190" duration="1004000" />
     </task>
     <servers />
   </component>
@@ -64,5 +74,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
