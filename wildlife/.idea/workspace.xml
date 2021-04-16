@@ -19,6 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="ba647f86-e778-44da-b117-32cab34ef312" name="Default Changelist" comment="" />
     <list default="true" id="b7fc8b1c-217f-43ff-b499-c11c501d9e42" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JupyterTrust" id="89edd4c1-26b6-4345-8aa4-c1965f037d4c" />
+  <component name="ProjectId" id="1rF2pvqFkkDvROigd1PWa01OM4q" />
   <component name="JupyterTrust" id="26178fda-1bac-49be-96b9-af556b4a5abc" />
   <component name="ProjectId" id="1r9hNAtAENKem2qYCbyTPMFViv7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +45,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="ba647f86-e778-44da-b117-32cab34ef312" name="Default Changelist" comment="" />
+      <created>1618557709360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618557709360</updated>
+      <workItem from="1618557711133" duration="1092000" />
       <changelist id="b7fc8b1c-217f-43ff-b499-c11c501d9e42" name="Default Changelist" comment="" />
       <created>1618394177069</created>
       <option name="number" value="Default" />
