@@ -223,7 +223,7 @@ body {
   align-items: center;
 }
 
-.latest {
+.articles {
   display: flex;
   flex-direction: column;
   align-items: center;
